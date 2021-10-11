@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cryptoveras/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cryptoveras/static/js/main.4ef0e8ec.chunk.js",
-    "main.js.map": "/cryptoveras/static/js/main.4ef0e8ec.chunk.js.map",
-    "runtime-main.js": "/cryptoveras/static/js/runtime-main.83bec7e2.js",
-    "runtime-main.js.map": "/cryptoveras/static/js/runtime-main.83bec7e2.js.map",
-    "static/js/2.4ccbc883.chunk.js": "/cryptoveras/static/js/2.4ccbc883.chunk.js",
-    "static/js/2.4ccbc883.chunk.js.map": "/cryptoveras/static/js/2.4ccbc883.chunk.js.map",
-    "static/js/3.4c19be52.chunk.js": "/cryptoveras/static/js/3.4c19be52.chunk.js",
-    "static/js/3.4c19be52.chunk.js.map": "/cryptoveras/static/js/3.4c19be52.chunk.js.map",
+    "main.js": "/cryptoveras/static/js/main.608cb587.chunk.js",
+    "main.js.map": "/cryptoveras/static/js/main.608cb587.chunk.js.map",
+    "runtime-main.js": "/cryptoveras/static/js/runtime-main.ecaa2e5b.js",
+    "runtime-main.js.map": "/cryptoveras/static/js/runtime-main.ecaa2e5b.js.map",
+    "static/js/2.681485a6.chunk.js": "/cryptoveras/static/js/2.681485a6.chunk.js",
+    "static/js/2.681485a6.chunk.js.map": "/cryptoveras/static/js/2.681485a6.chunk.js.map",
+    "static/js/3.7b531941.chunk.js": "/cryptoveras/static/js/3.7b531941.chunk.js",
+    "static/js/3.7b531941.chunk.js.map": "/cryptoveras/static/js/3.7b531941.chunk.js.map",
     "index.html": "/cryptoveras/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/cryptoveras/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4ccbc883.chunk.js.LICENSE.txt": "/cryptoveras/static/js/2.4ccbc883.chunk.js.LICENSE.txt"
+    "static/js/2.681485a6.chunk.js.LICENSE.txt": "/cryptoveras/static/js/2.681485a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83bec7e2.js",
-    "static/js/2.4ccbc883.chunk.js",
+    "static/js/runtime-main.ecaa2e5b.js",
+    "static/js/2.681485a6.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4ef0e8ec.chunk.js"
+    "static/js/main.608cb587.chunk.js"
   ]
 }
